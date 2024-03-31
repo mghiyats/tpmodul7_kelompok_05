@@ -16,7 +16,7 @@ namespace tpmodul7_kelompok_05
     }
     class NamaMahasiswa
     {
-        public string depan { get; set; }
+        public string depan { get; set; }           
         public string belakang { get; set; }
     }
     public class DataMahasiswa_1302220011
