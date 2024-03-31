@@ -1,4 +1,5 @@
 ﻿using tpmodul7_kelompok_05;
+using static tpmodul7_kelompok_05.Course;
 
 internal class Program
 {
@@ -6,7 +7,8 @@ internal class Program
     {
         DataMahasiswa1302220048.ReadJSON();
 
-
+        KuliahMahasiswa1302220048.ReadJSON();
+        
 
     }
 
