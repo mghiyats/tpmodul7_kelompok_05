@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\Latihan dikelas\\tpmodul7_kelompok_05\\",
+  "WorkspaceRootPath": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\users\\muhammad rafif a.p\\onedrive - telkom university\\kuyliah\\semester 4\\praktikum konstruksi pl\\latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\kuliah\\semester 4\\p_konstruksi perangkat lunak\\minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\users\\muhammad rafif a.p\\onedrive - telkom university\\kuyliah\\semester 4\\praktikum konstruksi pl\\latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\kuliah\\semester 4\\p_konstruksi perangkat lunak\\minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\datamahasiswa_1302223039.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\datamahasiswa_1302223039.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35D0ABB-6788-4C30-93EB-DD8D413AA460}|Solution Items{E35D0ABB-6788-4C30-93EB-DD8D413AA460}|C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tp7_1_1302223039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E35D0ABB-6788-4C30-93EB-DD8D413AA460}|Solution Items{E35D0ABB-6788-4C30-93EB-DD8D413AA460}|solutionrelative:tp7_1_1302223039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tp7_1_1302223039.json",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tp7_1_1302223039.json",
+              "RelativeDocumentMoniker": "tp7_1_1302223039.json",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tp7_1_1302223039.json",
+              "RelativeToolTip": "tp7_1_1302223039.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T16:33:56.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\Latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore",
-              "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\.gitignore",
-              "ToolTip": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\Latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore",
-              "RelativeToolTip": "tpmodul7_kelompok_05\\.gitignore",
-              "ViewState": "AQIAAGoBAAAAAAAAAAAmwI0BAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-31T12:33:01.912Z",
+              "Title": "DataMahasiswa_1302223039.cs",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\DataMahasiswa_1302223039.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\DataMahasiswa_1302223039.cs",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\DataMahasiswa_1302223039.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_05\\DataMahasiswa_1302223039.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:09:50.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\Latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\Program.cs",
-              "ToolTip": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\Latihan dikelas\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tpmod7\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
               "RelativeToolTip": "tpmodul7_kelompok_05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T12:31:33.295Z",
               "EditorCaption": ""
