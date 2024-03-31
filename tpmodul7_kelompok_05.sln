@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E35D0ABB-6788-4C30-93EB-DD8D413AA460}"
 	ProjectSection(SolutionItems) = preProject
 		tp7_1_1302223039.json = tp7_1_1302223039.json
+		..\..\tp7_2_1302223039.json = ..\..\tp7_2_1302223039.json
 	EndProjectSection
 EndProject
 Global
