@@ -5,5 +5,6 @@ internal class Program
     private static void Main(string[] args)
     {
         DataMahasiswa_1302220121.ReadJSON();
+        KuliahMahasiswa_1302220121.ReadJSON();
     }
 }

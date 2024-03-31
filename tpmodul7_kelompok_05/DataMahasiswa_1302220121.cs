@@ -23,8 +23,8 @@ namespace tpmodul7_kelompok_05
     {
         public static void ReadJSON()
         {
-            string json = File.ReadAllText("C:\\Users\\rizky\\Downloads\\tp7_1_1302220121.json");
-            DataMahasiswa mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(json);
+            string jsonString = File.ReadAllText("C:\\Users\\rizky\\Downloads\\tp7_1_1302220121.json");
+            DataMahasiswa mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(jsonString);
             Console.WriteLine("Nama " + mahasiswa.nama.depan + " " + mahasiswa.nama.belakang + " dengan nim " + mahasiswa.nim + " dari fakultas " + mahasiswa.fakultas);
         }
     }
