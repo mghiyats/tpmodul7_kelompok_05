@@ -7,6 +7,13 @@
       "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\kpl\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\kuliahmahasiswa_1302220011.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\kuliahmahasiswa_1302220011.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6157B047-5D44-45B8-AB30-4E020DFA6949}|Solution Items{6157B047-5D44-45B8-AB30-4E020DFA6949}|C:\\JSON\\tp7_2_1302220011.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|c:\\kpl\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\datamahasiswa_1302220011.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72ABE6FA-C2DC-484F-822B-8C3F85FE5DB2}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\datamahasiswa_1302220011.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,11 +32,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KuliahMahasiswa_1302220011.cs",
+              "DocumentMoniker": "C:\\KPL\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\KuliahMahasiswa_1302220011.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\KuliahMahasiswa_1302220011.cs",
+              "ToolTip": "C:\\KPL\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\KuliahMahasiswa_1302220011.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_05\\KuliahMahasiswa_1302220011.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:24:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "tp7_2_1302220011.json",
+              "DocumentMoniker": "C:\\JSON\\tp7_2_1302220011.json",
+              "RelativeDocumentMoniker": "..\\..\\JSON\\tp7_2_1302220011.json",
+              "ToolTip": "C:\\JSON\\tp7_2_1302220011.json",
+              "RelativeToolTip": "..\\..\\JSON\\tp7_2_1302220011.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T19:23:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "tp7_1_1302220011.json",
               "DocumentMoniker": "C:\\JSON\\tp7_1_1302220011.json",
               "RelativeDocumentMoniker": "..\\..\\JSON\\tp7_1_1302220011.json",
@@ -37,12 +70,11 @@
               "RelativeToolTip": "..\\..\\JSON\\tp7_1_1302220011.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T19:17:35.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T19:17:35.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DataMahasiswa_1302220011.cs",
               "DocumentMoniker": "C:\\KPL\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\DataMahasiswa_1302220011.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\DataMahasiswa_1302220011.cs",
@@ -50,12 +82,11 @@
               "RelativeToolTip": "tpmodul7_kelompok_05\\DataMahasiswa_1302220011.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T19:17:10.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T19:17:10.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\KPL\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\.gitignore",
@@ -63,8 +94,7 @@
               "RelativeToolTip": "tpmodul7_kelompok_05\\.gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-31T12:33:01.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T12:33:01.912Z"
             },
             {
               "$type": "Document",
@@ -74,7 +104,7 @@
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\Program.cs",
               "ToolTip": "C:\\KPL\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
               "RelativeToolTip": "tpmodul7_kelompok_05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T12:31:33.295Z",
               "EditorCaption": ""
